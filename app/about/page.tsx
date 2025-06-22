@@ -7,18 +7,18 @@ import { GraduationCap, Users, Code, Database, Palette, Globe } from "lucide-rea
 export default function AboutPage() {
   const teamMembers = [
     {
-      name: "Amna Naeem",
-      rollNumber: "BSCS/FA21/505",
+      name: "Faizzyhon",
+      rollNumber: "BSCS",
       role: "Project Lead & Frontend Developer",
     },
     {
-      name: "Anamara Ghaffar",
-      rollNumber: "BSCS/FA21/512",
+      name: "Faizzyhon",
+      rollNumber: "BSCS",
       role: "Backend Developer & Database Designer",
     },
     {
-      name: "Shamim Bibi",
-      rollNumber: "BSCS/FA21/526",
+      name: "Faizzyhon",
+      rollNumber: "BSCS",
       role: "UI/UX Designer & Quality Assurance",
     },
   ]
@@ -136,7 +136,7 @@ export default function AboutPage() {
                   <div className="space-y-4">
                     <div>
                       <h4 className="font-semibold">Institution</h4>
-                      <p className="text-muted-foreground">Sadiq College Women University Bahawalpur, Pakistan</p>
+                      <p className="text-muted-foreground"> University Bahawalpur, Pakistan</p>
                     </div>
                     <div>
                       <h4 className="font-semibold">Program</h4>
@@ -144,7 +144,7 @@ export default function AboutPage() {
                     </div>
                     <div>
                       <h4 className="font-semibold">Supervisor</h4>
-                      <p className="text-muted-foreground">Dr. Shazana</p>
+                      <p className="text-muted-foreground">Dr. Teacher</p>
                     </div>
                   </div>
                 </CardContent>
